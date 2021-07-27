@@ -5,3 +5,8 @@ variable "region" {
 variable "profile" {
   default = "personal-akino"
 }
+
+variable "ip_adress" {
+  # MyIpAdress
+  default = ""
+}
